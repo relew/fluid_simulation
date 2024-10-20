@@ -29,15 +29,15 @@ The simulation uses a 9-lattice velocity model (D2Q9). This model defines nine p
 ![Simulation](pictures/mapping.png)
 
 # Calculations:
-Density:
+**Density:**
 ![Simulation](pictures/density.png)
 
-Momentum:
+**Momentum:**
 ![Simulation](pictures/momentum.png)
 
-Equilibrium Distribution:
+**Equilibrium Distribution:**
 ![Simulation](pictures/equilibrium.png)
 
-Collision:
+**Collision:**
 ![Simulation](pictures/collide.png)
 
