@@ -1,9 +1,7 @@
-# fluid_simulation
+# Fluid Simulation
 Lattice Boltzmann fluid simulation
 
 ## Create Your Own Lattice Boltzmann Simulation (With Python)
-
-### Philip Mocz (2020) Princeton Univeristy, [@PMocz](https://twitter.com/PMocz)
 
 Simulate a flow past cylinder with the Lattice Boltzmann method
 
@@ -31,11 +29,15 @@ The simulation uses a 9-lattice velocity model (D2Q9). This model defines nine p
 ![Simulation](pictures/mapping.png)
 
 # Calculations:
-density - use density.png from folder
+Density:
+![Simulation](pictures/density.png)
 
-momentum - use momentum.png from folder
+Momentum:
+![Simulation](pictures/momentum.png)
 
-equilivrium - use equilibrium.png from foldrer
+Equilibrium Distribution:
+![Simulation](pictures/equilibrium.png)
 
-collide - use collide.png from folder
+Collision:
+![Simulation](pictures/collide.png)
 
